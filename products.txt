@@ -1,0 +1,10 @@
+PRODUCT_ID    PRODUCT_NAME    DESCRIPTION          STOCK    PRICE_(RM)     
+S0001         RockRider       Climbing shoes       100      399.99         
+S0002         FlexiFit        Flexible shoes       8        349.99         
+S0003         Enduro Flex     Cushioned shoes      75       329.99         
+S0004         TurboTrek       Durable shoes        5        449.99         
+S0005         Power Grip      Basketball shoes     120      379.99         
+S0006         Ultra Walk      Walking shoes        80       449.99         
+S0007         ComfortMax      Comfort shoes        1        399.99         
+S0008         PowerStep       Running shoes        100      479.99         
+S1234         SprintLite      Football shoes       250      499.99         

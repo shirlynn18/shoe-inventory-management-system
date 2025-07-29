@@ -1,0 +1,10 @@
+SUPPLIER_ID   SUPPLIER_NAME   CONTACT_DETAILS
+P0001         ActiveSport     0128986379
+P0002         FastTrack       0197826355
+P0003         ProShoe         0179082375
+P0004         SportsGear      0189792547
+P0005         RunTech         0140927645
+P0006         SwiftFit        0140927645
+P0007         FitX            0136247589
+P0008         EliteGear       0173625911
+P4321         ProMotion       0116667778
