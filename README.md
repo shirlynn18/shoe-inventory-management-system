@@ -58,4 +58,4 @@ The system uses a **menu-driven interface** and stores all records in `.txt` fil
 3. Run the main script in terminal:
 
 ```bash
-python main.py
+python System.py
